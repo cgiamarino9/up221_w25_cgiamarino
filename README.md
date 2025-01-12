@@ -7,4 +7,4 @@ Course repo for chris giamarino winter 2025
 * I produce interactive maps with an emphasis on critical cartography, spatial justice, and digital storytelling
 * My research interests include: theories of social justice and urban design; public space regulation, design, and production; and everyday urbanisms of unhoused communities and youth skateboarders
 
-![Alt text](https://pbs.twimg.com/media/GHT5xFiagAAhBU_?format=jpg&name=large "Presenting on 'Creative Destruction' panel focusing on urban design, architecture, and skateboarding")
+![Alt text](https://pbs.twimg.com/media/GHT5xFiagAAhBU_?format=jpg&name=large "Discussing Googie architecture and the West LA Courthouse public space advocacy campaign on the 'Creative Destruction' panel focusing on urban design, architecture, and skateboarding. Hosted by Ted Barrow, PhD with Bobby King, Michael Barker, and Shane Yee. Slow Impact, Tempe, AZ. February 19, 2024.")
